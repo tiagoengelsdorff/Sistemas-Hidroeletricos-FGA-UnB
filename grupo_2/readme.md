@@ -22,11 +22,33 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   
   - Cálculo da potência hidráulica máxima teórica média e da energia máxima teórica média;
   
+    ![Teste de legenda de imagem](eq1.gif)
+    
+    ![Teste de legenda de imagem](eq2.gif)
+    
+    ![Teste de legenda de imagem](eq3.gif)
+    
+    ![Teste de legenda de imagem](eq4.gif)
+    
+    ![Teste de legenda de imagem](eq5.gif)
+  
   - Análise dos dados de vazão e energia máxima teórica média;
   
+    ![Teste de legenda de imagem](img1.png)
+    
+    ![Teste de legenda de imagem](img2.png)
+
   - Escolha do tipo de central e o arranjo utilizado;
   
+    ![Teste de legenda de imagem](eq6.fig)
+  
   - Estimativa da potência instalada;
+  
+    ![Teste de legenda de imagem](eq7.fig)
+    
+    ![Teste de legenda de imagem](eq8.fig)
+  
+    ![Teste de legenda de imagem](img3.png)
   
   - Desenho esquemático do sistema hidromecânico equivalente;
   
