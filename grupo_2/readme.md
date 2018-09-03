@@ -40,13 +40,13 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
 
   - Escolha do tipo de central e o arranjo utilizado;
   
-    ![Teste de legenda de imagem](eq6.fig)
+    ![Teste de legenda de imagem](eq6.gif)
   
   - Estimativa da potência instalada;
   
-    ![Teste de legenda de imagem](eq7.fig)
+    ![Teste de legenda de imagem](eq7.gif)
     
-    ![Teste de legenda de imagem](eq8.fig)
+    ![Teste de legenda de imagem](eq8.gif)
   
     ![Teste de legenda de imagem](img3.png)
   
